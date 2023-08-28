@@ -1,7 +1,5 @@
 
-![header](https://nina-zuhairi.vercel.app/api&type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<p align='center'> </p>
-<p align='center'>
+![header](https://nina-zuhairi.vercel.app/api&type=waving)
 
 "Believe you can and you're halfway there" 
 - Theodore R.
