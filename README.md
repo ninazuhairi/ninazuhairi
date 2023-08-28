@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/ninazuhairi/ninazuhairi/assets/127283289/e428ad07-1b95-484d-b73c-0c2010c0f1ed)
+![github-header-image (3)](https://github.com/ninazuhairi/ninazuhairi/assets/127283289/3df63ebb-f9f4-4b17-b2fe-95bf7551eb07)
 
 *"Believe you can and you're halfway there"* 
 *- Theodore R.*
